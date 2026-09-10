@@ -1,0 +1,151 @@
+Invoice ID,Date,Customer Type,Gender,Product Category,Unit Price,Quantity,Total Sales,Payment Method
+INV0001,2024-03-10,Member,,Snacks,24.72,3,323.78,Cash
+INV0002,2024-03-04,Visitor,Female,Vegetables,44.27,7,354.98,Credit Card
+INV0003,2024-03-11,Visitor,Female,Fruits,27.93,8,45.14,Credit Card
+INV0004,2024-03-07,Visitor,Female,Fruits,39.68,1,52.96,Mobile Payment
+INV0005,2024-03-17,Visitor,Male,Vegetables,38.59,10,95.29,Cash
+INV0006,2024-03-16,Member,Male,Dairy,19.63,5,175.06,Credit Card
+INV0007,2024-03-29,Member,Male,Bakery,17.04,7,148.59,Cash
+INV0008,2024-03-20,Member,Male,Vegetables,31.17,9,200.59,Mobile Payment
+INV0009,2024-03-26,Visitor,Female,Fruits,20.92,1,369.87,Cash
+INV0010,2024-03-06,Visitor,Male,Beverages,39.58,4,390.63,
+INV0011,2024-03-07,Visitor,Female,Dairy,43.98,6,40.33,Credit Card
+INV0012,2024-03-27,Visitor,Female,Dairy,35.49,4,382.66,Cash
+INV0013,2024-03-27,Visitor,,Dairy,21.48,4,100.92,Credit Card
+INV0014,2024-03-25,Member,Female,Vegetables,6.24,4,448.64,Cash
+INV0015,2024-03-21,Member,Male,Fruits,29.38,8,273.86,Credit Card
+INV0016,2024-03-19,Member,Female,Vegetables,21.14,6,458.27,Mobile Payment
+INV0017,2024-03-02,Member,,Snacks,22.58,3,287.88,Cash
+INV0018,2024-03-29,Visitor,Male,Dairy,46.27,4,464.71,Cash
+INV0019,2024-03-27,Member,Male,Vegetables,23.8,7,318.61,Mobile Payment
+INV0020,2024-03-17,Member,Female,Snacks,24.81,6,57.77,Mobile Payment
+INV0021,2024-03-03,,Female,Dairy,48.38,1,321.09,Cash
+INV0022,2024-03-23,Visitor,Male,Beverages,23.57,8,314.15,Cash
+INV0023,2024-03-28,Visitor,Male,Dairy,23.71,9,320.81,Mobile Payment
+INV0024,2024-03-11,Member,Male,Dairy,27.12,9,327.7,Cash
+INV0025,2024-03-11,Member,Male,Beverages,10.22,4,402.83,Credit Card
+INV0026,2024-03-07,Visitor,Female,Beverages,36.65,8,277.19,Mobile Payment
+INV0027,2024-03-30,,,Fruits,32.45,10,266.22,Cash
+INV0028,2024-03-01,Visitor,Male,Dairy,15.12,5,222.73,Cash
+INV0029,2024-03-08,Member,Female,Bakery,26.11,10,315.96,Mobile Payment
+INV0030,2024-03-29,Member,Male,Bakery,27.57,8,437.87,Mobile Payment
+INV0031,2024-03-26,Member,Male,Bakery,44.78,7,467.79,Mobile Payment
+INV0032,2024-03-23,Member,Male,Vegetables,24.99,1,302.16,Credit Card
+INV0033,2024-03-07,,,Bakery,27.08,10,59.55,Mobile Payment
+INV0034,2024-03-27,Visitor,Female,Dairy,19.5,3,445.16,Mobile Payment
+INV0035,2024-03-01,Member,Male,Fruits,37.04,8,161.09,Cash
+INV0036,2024-03-30,Member,Female,Vegetables,5.35,7,305.37,Mobile Payment
+INV0037,2024-03-08,Visitor,Male,Fruits,10.98,6,494.68,
+INV0038,2024-03-09,Member,Male,Fruits,18.87,8,60.46,Cash
+INV0039,2024-03-09,Member,Female,Vegetables,11.88,5,260.59,Credit Card
+INV0040,2024-03-04,Member,Male,Fruits,34.25,3,213.72,Credit Card
+INV0041,2024-03-19,Visitor,Male,Vegetables,15.02,3,345.13,Cash
+INV0042,2024-03-01,Visitor,,Vegetables,44.62,7,467.76,Credit Card
+INV0043,2024-03-21,Member,Male,Snacks,33.42,2,357.84,Cash
+INV0044,2024-03-01,Member,Female,Dairy,21.67,9,78.97,Cash
+INV0045,2024-03-19,Member,Male,Snacks,34.82,4,351.1,Credit Card
+INV0046,2024-03-05,Visitor,Female,Beverages,42.07,2,213.68,Credit Card
+INV0047,2024-03-30,Visitor,Male,Beverages,14.89,9,183.58,Mobile Payment
+INV0048,2024-03-17,Member,Male,Vegetables,20.06,7,231.3,Cash
+INV0049,2024-03-21,Visitor,Female,Fruits,44.3,3,185.18,Credit Card
+INV0050,2024-03-13,Visitor,Female,Dairy,34.16,1,416.9,Credit Card
+INV0051,2024-03-04,Member,Male,Beverages,12.49,7,419.92,Cash
+INV0052,2024-03-15,Member,Female,Vegetables,35.83,8,262.23,Mobile Payment
+INV0053,2024-03-13,Member,Male,Fruits,31.49,7,434.59,Cash
+INV0054,2024-03-20,Member,Female,Dairy,34.81,3,430.35,Cash
+INV0055,2024-03-08,Member,Male,Beverages,37.54,4,388.57,Credit Card
+INV0056,2024-03-11,Visitor,Female,Beverages,36.85,5,221.12,
+INV0057,2024-03-06,Member,Female,Bakery,29.25,9,196.68,Cash
+INV0058,2024-03-24,Member,Female,Beverages,18.5,4,357.65,Cash
+INV0059,2024-03-15,Visitor,,Snacks,38.3,3,206.32,Credit Card
+INV0060,2024-03-29,Visitor,Female,Snacks,49.83,4,283.78,Cash
+INV0061,2024-03-01,Visitor,Male,Dairy,33.04,2,423.82,Mobile Payment
+INV0062,2024-03-16,Member,Male,Fruits,34,1,334.35,Credit Card
+INV0063,2024-03-30,Visitor,,Fruits,45.85,6,499.62,Cash
+INV0064,2024-03-24,Visitor,Male,Dairy,6.75,5,337.56,Credit Card
+INV0065,2024-03-09,,Male,Fruits,23.83,6,189.37,Credit Card
+INV0066,2024-03-11,Visitor,Male,Vegetables,45.07,7,67.75,Cash
+INV0067,2024-03-04,Member,Female,Bakery,14.22,3,68.19,Mobile Payment
+INV0068,2024-03-02,Member,Male,Vegetables,17.32,1,226.31,Mobile Payment
+INV0069,2024-03-03,Member,Female,Bakery,6.12,10,277.62,Mobile Payment
+INV0070,2024-03-05,Member,Female,Vegetables,43.64,1,445.83,Mobile Payment
+INV0071,2024-03-24,Visitor,,Dairy,6.93,10,25.95,Credit Card
+INV0072,2024-03-25,Visitor,Female,Vegetables,45.8,7,169.88,Credit Card
+INV0073,2024-03-01,Visitor,Female,Snacks,45.61,2,335.05,Credit Card
+INV0074,2024-03-09,Member,,Vegetables,19.3,8,89.25,Mobile Payment
+INV0075,2024-03-23,Member,,Bakery,14.6,2,373.03,Cash
+INV0076,2024-03-02,Visitor,Male,Bakery,16.99,8,233.63,Credit Card
+INV0077,2024-03-06,Visitor,Male,Snacks,7.6,3,417.37,Cash
+INV0078,2024-03-09,Visitor,Female,Beverages,10.29,5,396.23,Cash
+INV0079,2024-03-07,Visitor,Male,Vegetables,26.53,4,167.21,Credit Card
+INV0080,2024-03-27,Member,Male,Snacks,36.17,6,96.17,Credit Card
+INV0081,2024-03-21,Visitor,Female,Dairy,15.74,9,494.13,Credit Card
+INV0082,2024-03-13,Member,Female,Vegetables,13.68,4,405.38,Cash
+INV0083,2024-03-08,Visitor,Female,Snacks,7.01,8,369.7,Credit Card
+INV0084,2024-03-23,Visitor,Male,Dairy,24.36,9,262.49,Credit Card
+INV0085,2024-03-16,Visitor,Male,Vegetables,34.81,2,456.66,Mobile Payment
+INV0086,2024-03-10,Member,Male,Vegetables,23.45,7,246.71,Credit Card
+INV0087,2024-03-29,Member,Male,Dairy,25.14,7,116.82,Mobile Payment
+INV0088,2024-03-17,Visitor,Female,Vegetables,32.51,5,493.8,Credit Card
+INV0089,2024-03-30,Member,Female,Dairy,46,9,88.65,Cash
+INV0090,2024-03-25,Visitor,Female,Dairy,38.4,4,365.49,Cash
+INV0091,2024-03-06,Member,Female,Bakery,37.81,3,176.6,Mobile Payment
+INV0092,2024-03-25,Visitor,Female,Dairy,13.96,10,374.84,Credit Card
+INV0093,2024-03-25,Visitor,Female,Snacks,13.14,4,407.11,Mobile Payment
+INV0094,2024-03-12,Visitor,Female,Snacks,13.22,8,483.88,Cash
+INV0095,2024-03-27,Visitor,Female,Dairy,5.28,3,330.93,Mobile Payment
+INV0096,2024-03-20,Visitor,Male,Vegetables,39.87,7,263.98,Cash
+INV0097,2024-03-29,Member,Female,Snacks,38.91,3,302.56,Cash
+INV0098,2024-03-13,Member,Female,Fruits,43.13,5,484.24,Mobile Payment
+INV0099,2024-03-24,Visitor,Female,Snacks,6.64,1,264.13,Cash
+INV0100,2024-03-20,Visitor,Male,Bakery,42.56,2,362.04,Cash
+INV0101,2024-03-07,Member,Male,Fruits,42.36,8,84.79,Cash
+INV0102,2024-03-20,Member,Male,Vegetables,47,8,423.83,Cash
+INV0103,2024-03-16,Visitor,Male,Snacks,33.89,3,106.82,
+INV0104,2024-03-30,,Male,Bakery,20.74,9,143.03,Credit Card
+INV0105,2024-03-04,Visitor,Female,Fruits,34.06,1,186.17,Mobile Payment
+INV0106,2024-03-11,Member,Male,Beverages,42.04,7,126.77,Mobile Payment
+INV0107,2024-03-24,,Female,Beverages,28.48,7,127.52,Mobile Payment
+INV0108,2024-03-07,Visitor,Male,Vegetables,25.21,5,64.22,Cash
+INV0109,2024-03-10,Member,Male,Bakery,46.55,7,461.52,Credit Card
+INV0110,2024-03-11,Visitor,Male,Fruits,16.83,2,331.54,Mobile Payment
+INV0111,2024-03-15,Member,Female,Fruits,9.85,10,441.25,Mobile Payment
+INV0112,2024-03-21,Member,Female,Snacks,18.44,9,434.02,Mobile Payment
+INV0113,2024-03-31,Visitor,Male,Beverages,15.97,3,300.48,Credit Card
+INV0114,2024-03-05,Member,Male,Vegetables,23.28,2,437.49,Mobile Payment
+INV0115,2024-03-31,Visitor,Female,Snacks,23.43,9,474.21,Cash
+INV0116,2024-03-01,Member,Male,Beverages,47.49,4,128.36,Cash
+INV0117,2024-03-15,Visitor,Female,Snacks,9.05,8,302.67,Mobile Payment
+INV0118,2024-03-01,Member,Female,Beverages,49.6,6,42.85,Mobile Payment
+INV0119,2024-03-24,Member,Female,Bakery,38.66,7,457.84,Mobile Payment
+INV0120,2024-03-22,Visitor,Male,Dairy,40.55,5,492.67,Mobile Payment
+INV0121,2024-03-16,Member,Male,Vegetables,32.64,4,181.59,Cash
+INV0122,2024-03-30,,,Fruits,21.5,8,246.73,Credit Card
+INV0123,2024-03-24,Visitor,Male,Vegetables,45.64,5,357.22,Credit Card
+INV0124,2024-03-25,Visitor,Female,Vegetables,24.56,7,308.23,Mobile Payment
+INV0125,2024-03-07,Visitor,Male,Fruits,41.6,10,58.49,Cash
+INV0126,2024-03-21,Member,Female,Fruits,34.25,7,454.06,Mobile Payment
+INV0127,2024-03-06,Visitor,,Bakery,44.83,9,173.13,
+INV0128,2024-03-02,Member,Female,Bakery,30.8,10,155.4,Credit Card
+INV0129,2024-03-01,Member,Female,Bakery,15.7,6,362.18,Credit Card
+INV0130,2024-03-03,Member,Male,Dairy,46.52,2,463.9,Credit Card
+INV0131,2024-03-06,Visitor,Female,Vegetables,33.69,6,62.66,Credit Card
+INV0132,2024-03-01,Member,Male,Dairy,20.21,1,134.36,Credit Card
+INV0133,2024-03-28,Visitor,Male,Dairy,47.19,2,33.38,Cash
+INV0134,2024-03-27,Member,Female,Snacks,22.4,2,409.19,Mobile Payment
+INV0135,2024-03-20,Member,,Dairy,19.23,4,101.18,Mobile Payment
+INV0136,2024-03-11,Member,Female,Snacks,41.18,4,230.26,Cash
+INV0137,2024-03-23,Member,,Snacks,41.32,7,386.18,Cash
+INV0138,2024-03-20,Visitor,Male,Fruits,27.24,2,215.93,Cash
+INV0139,2024-03-30,Member,Male,Beverages,14.33,8,346.06,Credit Card
+INV0140,2024-03-11,Member,Male,Snacks,35.55,6,345.85,Credit Card
+INV0141,2024-03-10,Visitor,Male,Dairy,45.75,9,180.21,Mobile Payment
+INV0142,2024-03-14,Visitor,Female,Dairy,30.08,9,294.91,Credit Card
+INV0143,2024-03-16,Visitor,Female,Snacks,30.93,1,240.47,Mobile Payment
+INV0144,2024-03-05,Visitor,Female,Dairy,28.37,5,157.76,Mobile Payment
+INV0145,2024-03-30,Member,Female,Snacks,42.44,6,194.11,Cash
+INV0146,2024-03-02,Member,Female,Bakery,39.94,1,40.3,Credit Card
+INV0147,2024-03-23,Visitor,Female,Beverages,8.85,10,288.78,Cash
+INV0148,2024-03-02,Member,Female,Dairy,13.95,10,388.5,Mobile Payment
+INV0149,2024-03-22,,Female,Bakery,47.53,8,412.13,Cash
+INV0150,2024-03-01,Visitor,Female,Bakery,42.2,2,59.04,Mobile Payment
